@@ -1,5 +1,5 @@
 # XSS-Cheat-Sheets-2020
-By the way you may need it. [ Dear fg0d ]
+By the way you may need it.
 
 ```javascript
 <body oninput=javascript:alert(1)><input autofocus>
